@@ -28,7 +28,7 @@ public class DoubleShort {
             }
         }
         System.out.println("=============================================================");
-        System.out.println("Programa feito para organizar vetor pelo método Double Short!");
+        System.out.println("Programa feito para organizar vetor pelo método Double Sort!");
         System.out.println("=============================================================");
     }
 }
